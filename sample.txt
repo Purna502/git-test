@@ -1,2 +1,6 @@
 hi hello
 new file created
+<<<<<<< HEAD
+hiiiiiii helllooo
+=======
+>>>>>>> main
